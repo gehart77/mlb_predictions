@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		4E65E3AC2DE76FF500E36A25 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4E65E3962DE76FF300E36A25 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4E65E39D2DE76FF300E36A25;
+			remoteInfo = "MLB Predictions";
+		};
+		4E65E3B62DE76FF500E36A25 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4E65E3962DE76FF300E36A25 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4E65E39D2DE76FF300E36A25;
+			remoteInfo = "MLB Predictions";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		4E65E39E2DE76FF300E36A25 /* MLB Predictions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MLB Predictions.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E65E3AB2DE76FF500E36A25 /* MLB PredictionsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MLB PredictionsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E65E3B52DE76FF500E36A25 /* MLB PredictionsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MLB PredictionsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		4E65E3A02DE76FF300E36A25 /* MLB Predictions */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "MLB Predictions";
+			sourceTree = "<group>";
+		};
+		4E65E3AE2DE76FF500E36A25 /* MLB PredictionsTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "MLB PredictionsTests";
+			sourceTree = "<group>";
+		};
+		4E65E3B82DE76FF500E36A25 /* MLB PredictionsUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "MLB PredictionsUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4E65E39B2DE76FF300E36A25 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4E65E3A82DE76FF500E36A25 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4E65E3B22DE76FF500E36A25 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4E65E3952DE76FF300E36A25 = {
+			isa = PBXGroup;
+			children = (
+				4E65E3A02DE76FF300E36A25 /* MLB Predictions */,
+				4E65E3AE2DE76FF500E36A25 /* MLB PredictionsTests */,
+				4E65E3B82DE76FF500E36A25 /* MLB PredictionsUITests */,
+				4E65E39F2DE76FF300E36A25 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4E65E39F2DE76FF300E36A25 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4E65E39E2DE76FF300E36A25 /* MLB Predictions.app */,
+				4E65E3AB2DE76FF500E36A25 /* MLB PredictionsTests.xctest */,
+				4E65E3B52DE76FF500E36A25 /* MLB PredictionsUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4E65E39D2DE76FF300E36A25 /* MLB Predictions */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4E65E3BF2DE76FF500E36A25 /* Build configuration list for PBXNativeTarget "MLB Predictions" */;
+			buildPhases = (
+				4E65E39A2DE76FF300E36A25 /* Sources */,
+				4E65E39B2DE76FF300E36A25 /* Frameworks */,
+				4E65E39C2DE76FF300E36A25 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				4E65E3A02DE76FF300E36A25 /* MLB Predictions */,
+			);
+			name = "MLB Predictions";
+			packageProductDependencies = (
+			);
+			productName = "MLB Predictions";
+			productReference = 4E65E39E2DE76FF300E36A25 /* MLB Predictions.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4E65E3AA2DE76FF500E36A25 /* MLB PredictionsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4E65E3C22DE76FF500E36A25 /* Build configuration list for PBXNativeTarget "MLB PredictionsTests" */;
+			buildPhases = (
+				4E65E3A72DE76FF500E36A25 /* Sources */,
+				4E65E3A82DE76FF500E36A25 /* Frameworks */,
+				4E65E3A92DE76FF500E36A25 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4E65E3AD2DE76FF500E36A25 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				4E65E3AE2DE76FF500E36A25 /* MLB PredictionsTests */,
+			);
+			name = "MLB PredictionsTests";
+			packageProductDependencies = (
+			);
+			productName = "MLB PredictionsTests";
+			productReference = 4E65E3AB2DE76FF500E36A25 /* MLB PredictionsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		4E65E3B42DE76FF500E36A25 /* MLB PredictionsUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4E65E3C52DE76FF500E36A25 /* Build configuration list for PBXNativeTarget "MLB PredictionsUITests" */;
+			buildPhases = (
+				4E65E3B12DE76FF500E36A25 /* Sources */,
+				4E65E3B22DE76FF500E36A25 /* Frameworks */,
+				4E65E3B32DE76FF500E36A25 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4E65E3B72DE76FF500E36A25 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				4E65E3B82DE76FF500E36A25 /* MLB PredictionsUITests */,
+			);
+			name = "MLB PredictionsUITests";
+			packageProductDependencies = (
+			);
+			productName = "MLB PredictionsUITests";
+			productReference = 4E65E3B52DE76FF500E36A25 /* MLB PredictionsUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4E65E3962DE76FF300E36A25 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					4E65E39D2DE76FF300E36A25 = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					4E65E3AA2DE76FF500E36A25 = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = 4E65E39D2DE76FF300E36A25;
+					};
+					4E65E3B42DE76FF500E36A25 = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = 4E65E39D2DE76FF300E36A25;
+					};
+				};
+			};
+			buildConfigurationList = 4E65E3992DE76FF300E36A25 /* Build configuration list for PBXProject "MLB Predictions" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4E65E3952DE76FF300E36A25;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 4E65E39F2DE76FF300E36A25 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4E65E39D2DE76FF300E36A25 /* MLB Predictions */,
+				4E65E3AA2DE76FF500E36A25 /* MLB PredictionsTests */,
+				4E65E3B42DE76FF500E36A25 /* MLB PredictionsUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4E65E39C2DE76FF300E36A25 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4E65E3A92DE76FF500E36A25 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4E65E3B32DE76FF500E36A25 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4E65E39A2DE76FF300E36A25 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4E65E3A72DE76FF500E36A25 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4E65E3B12DE76FF500E36A25 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4E65E3AD2DE76FF500E36A25 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4E65E39D2DE76FF300E36A25 /* MLB Predictions */;
+			targetProxy = 4E65E3AC2DE76FF500E36A25 /* PBXContainerItemProxy */;
+		};
+		4E65E3B72DE76FF500E36A25 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4E65E39D2DE76FF300E36A25 /* MLB Predictions */;
+			targetProxy = 4E65E3B62DE76FF500E36A25 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		4E65E3BD2DE76FF500E36A25 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = GFAS3DGT35;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4E65E3BE2DE76FF500E36A25 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = GFAS3DGT35;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4E65E3C02DE76FF500E36A25 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GFAS3DGT35;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ai.wexford.MLB-Predictions";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4E65E3C12DE76FF500E36A25 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GFAS3DGT35;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ai.wexford.MLB-Predictions";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		4E65E3C32DE76FF500E36A25 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GFAS3DGT35;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ai.wexford.MLB-PredictionsTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MLB Predictions.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MLB Predictions";
+			};
+			name = Debug;
+		};
+		4E65E3C42DE76FF500E36A25 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GFAS3DGT35;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ai.wexford.MLB-PredictionsTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MLB Predictions.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MLB Predictions";
+			};
+			name = Release;
+		};
+		4E65E3C62DE76FF500E36A25 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GFAS3DGT35;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ai.wexford.MLB-PredictionsUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "MLB Predictions";
+			};
+			name = Debug;
+		};
+		4E65E3C72DE76FF500E36A25 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GFAS3DGT35;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ai.wexford.MLB-PredictionsUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "MLB Predictions";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4E65E3992DE76FF300E36A25 /* Build configuration list for PBXProject "MLB Predictions" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E65E3BD2DE76FF500E36A25 /* Debug */,
+				4E65E3BE2DE76FF500E36A25 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4E65E3BF2DE76FF500E36A25 /* Build configuration list for PBXNativeTarget "MLB Predictions" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E65E3C02DE76FF500E36A25 /* Debug */,
+				4E65E3C12DE76FF500E36A25 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4E65E3C22DE76FF500E36A25 /* Build configuration list for PBXNativeTarget "MLB PredictionsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E65E3C32DE76FF500E36A25 /* Debug */,
+				4E65E3C42DE76FF500E36A25 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4E65E3C52DE76FF500E36A25 /* Build configuration list for PBXNativeTarget "MLB PredictionsUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E65E3C62DE76FF500E36A25 /* Debug */,
+				4E65E3C72DE76FF500E36A25 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4E65E3962DE76FF300E36A25 /* Project object */;
+}
