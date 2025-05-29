@@ -1,0 +1,860 @@
+2025-05-28 14:19:46,905 - prediction_model - INFO - Starting model training process
+2025-05-28 14:19:46,905 - prediction_model - INFO - Collecting data for 2018
+2025-05-28 14:19:48,876 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ARI', 'year': 2018}
+2025-05-28 14:19:50,292 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ATL', 'year': 2018}
+2025-05-28 14:19:51,870 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BAL', 'year': 2018}
+2025-05-28 14:19:53,265 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BOS', 'year': 2018}
+2025-05-28 14:19:54,643 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHC', 'year': 2018}
+2025-05-28 14:19:55,998 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHW', 'year': 2018}
+2025-05-28 14:19:57,422 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CIN', 'year': 2018}
+2025-05-28 14:19:58,812 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CLE', 'year': 2018}
+2025-05-28 14:20:00,203 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'COL', 'year': 2018}
+2025-05-28 14:20:01,913 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'DET', 'year': 2018}
+2025-05-28 14:20:03,477 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'HOU', 'year': 2018}
+2025-05-28 14:20:05,417 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'KCR', 'year': 2018}
+2025-05-28 14:20:07,022 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAA', 'year': 2018}
+2025-05-28 14:20:08,567 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAD', 'year': 2018}
+2025-05-28 14:20:09,998 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIA', 'year': 2018}
+2025-05-28 14:20:11,501 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIL', 'year': 2018}
+2025-05-28 14:20:13,117 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIN', 'year': 2018}
+2025-05-28 14:20:14,919 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYM', 'year': 2018}
+2025-05-28 14:20:16,487 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYY', 'year': 2018}
+2025-05-28 14:20:18,605 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'OAK', 'year': 2018}
+2025-05-28 14:20:19,849 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PHI', 'year': 2018}
+2025-05-28 14:20:21,480 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PIT', 'year': 2018}
+2025-05-28 14:20:23,272 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SDP', 'year': 2018}
+2025-05-28 14:20:24,602 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SEA', 'year': 2018}
+2025-05-28 14:20:25,924 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SFG', 'year': 2018}
+2025-05-28 14:20:27,913 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'STL', 'year': 2018}
+2025-05-28 14:20:29,499 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TBR', 'year': 2018}
+2025-05-28 14:20:30,795 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TEX', 'year': 2018}
+2025-05-28 14:20:33,590 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TOR', 'year': 2018}
+2025-05-28 14:20:36,736 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'WSN', 'year': 2018}
+2025-05-28 14:20:36,736 - prediction_model - INFO - Collecting data for 2019
+2025-05-28 14:20:39,067 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ARI', 'year': 2019}
+2025-05-28 14:20:40,901 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ATL', 'year': 2019}
+2025-05-28 14:20:42,593 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BAL', 'year': 2019}
+2025-05-28 14:20:44,128 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BOS', 'year': 2019}
+2025-05-28 14:20:45,645 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHC', 'year': 2019}
+2025-05-28 14:20:47,491 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHW', 'year': 2019}
+2025-05-28 14:20:48,894 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CIN', 'year': 2019}
+2025-05-28 14:20:50,391 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CLE', 'year': 2019}
+2025-05-28 14:20:52,013 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'COL', 'year': 2019}
+2025-05-28 14:20:53,883 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'DET', 'year': 2019}
+2025-05-28 14:20:55,293 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'HOU', 'year': 2019}
+2025-05-28 14:20:56,622 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'KCR', 'year': 2019}
+2025-05-28 14:20:58,426 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAA', 'year': 2019}
+2025-05-28 14:21:00,167 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAD', 'year': 2019}
+2025-05-28 14:21:01,661 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIA', 'year': 2019}
+2025-05-28 14:21:04,065 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIL', 'year': 2019}
+2025-05-28 14:21:05,633 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIN', 'year': 2019}
+2025-05-28 14:21:07,026 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYM', 'year': 2019}
+2025-05-28 14:21:08,984 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYY', 'year': 2019}
+2025-05-28 14:21:10,621 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'OAK', 'year': 2019}
+2025-05-28 14:21:12,290 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PHI', 'year': 2019}
+2025-05-28 14:21:14,377 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PIT', 'year': 2019}
+2025-05-28 14:21:15,774 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SDP', 'year': 2019}
+2025-05-28 14:21:17,588 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SEA', 'year': 2019}
+2025-05-28 14:21:19,263 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SFG', 'year': 2019}
+2025-05-28 14:21:20,785 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'STL', 'year': 2019}
+2025-05-28 14:21:22,357 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TBR', 'year': 2019}
+2025-05-28 14:21:23,999 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TEX', 'year': 2019}
+2025-05-28 14:21:25,556 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TOR', 'year': 2019}
+2025-05-28 14:21:26,861 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'WSN', 'year': 2019}
+2025-05-28 14:21:26,861 - prediction_model - INFO - Collecting data for 2020
+2025-05-28 14:21:28,412 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ARI', 'year': 2020}
+2025-05-28 14:21:30,307 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ATL', 'year': 2020}
+2025-05-28 14:21:32,120 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BAL', 'year': 2020}
+2025-05-28 14:21:33,970 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BOS', 'year': 2020}
+2025-05-28 14:21:35,645 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHC', 'year': 2020}
+2025-05-28 14:21:37,155 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHW', 'year': 2020}
+2025-05-28 14:21:38,883 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CIN', 'year': 2020}
+2025-05-28 14:21:40,478 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CLE', 'year': 2020}
+2025-05-28 14:21:42,298 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'COL', 'year': 2020}
+2025-05-28 14:21:44,041 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'DET', 'year': 2020}
+2025-05-28 14:21:45,436 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'HOU', 'year': 2020}
+2025-05-28 14:21:47,155 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'KCR', 'year': 2020}
+2025-05-28 14:21:48,913 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAA', 'year': 2020}
+2025-05-28 14:21:50,165 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAD', 'year': 2020}
+2025-05-28 14:21:51,646 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIA', 'year': 2020}
+2025-05-28 14:21:53,150 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIL', 'year': 2020}
+2025-05-28 14:21:54,556 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIN', 'year': 2020}
+2025-05-28 14:21:55,897 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYM', 'year': 2020}
+2025-05-28 14:21:59,801 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYY', 'year': 2020}
+2025-05-28 14:22:01,242 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'OAK', 'year': 2020}
+2025-05-28 14:22:02,849 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PHI', 'year': 2020}
+2025-05-28 14:22:04,209 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PIT', 'year': 2020}
+2025-05-28 14:22:06,123 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SDP', 'year': 2020}
+2025-05-28 14:22:07,727 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SEA', 'year': 2020}
+2025-05-28 14:22:09,398 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SFG', 'year': 2020}
+2025-05-28 14:22:11,041 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'STL', 'year': 2020}
+2025-05-28 14:22:12,846 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TBR', 'year': 2020}
+2025-05-28 14:22:14,437 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TEX', 'year': 2020}
+2025-05-28 14:22:16,092 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TOR', 'year': 2020}
+2025-05-28 14:22:18,200 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'WSN', 'year': 2020}
+2025-05-28 14:22:18,200 - prediction_model - INFO - Collecting data for 2021
+2025-05-28 14:22:20,458 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ARI', 'year': 2021}
+2025-05-28 14:22:22,402 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ATL', 'year': 2021}
+2025-05-28 14:22:23,942 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BAL', 'year': 2021}
+2025-05-28 14:22:26,391 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BOS', 'year': 2021}
+2025-05-28 14:22:28,191 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHC', 'year': 2021}
+2025-05-28 14:22:30,087 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHW', 'year': 2021}
+2025-05-28 14:22:31,722 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CIN', 'year': 2021}
+2025-05-28 14:22:33,184 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CLE', 'year': 2021}
+2025-05-28 14:22:34,748 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'COL', 'year': 2021}
+2025-05-28 14:22:36,192 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'DET', 'year': 2021}
+2025-05-28 14:22:37,662 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'HOU', 'year': 2021}
+2025-05-28 14:22:39,298 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'KCR', 'year': 2021}
+2025-05-28 14:22:41,138 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAA', 'year': 2021}
+2025-05-28 14:22:42,499 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAD', 'year': 2021}
+2025-05-28 14:22:44,120 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIA', 'year': 2021}
+2025-05-28 14:22:45,479 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIL', 'year': 2021}
+2025-05-28 14:22:46,958 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIN', 'year': 2021}
+2025-05-28 14:22:48,509 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYM', 'year': 2021}
+2025-05-28 14:22:50,124 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYY', 'year': 2021}
+2025-05-28 14:22:52,132 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'OAK', 'year': 2021}
+2025-05-28 14:22:53,406 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PHI', 'year': 2021}
+2025-05-28 14:22:54,858 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PIT', 'year': 2021}
+2025-05-28 14:22:56,288 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SDP', 'year': 2021}
+2025-05-28 14:22:57,659 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SEA', 'year': 2021}
+2025-05-28 14:22:59,088 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SFG', 'year': 2021}
+2025-05-28 14:23:00,581 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'STL', 'year': 2021}
+2025-05-28 14:23:02,136 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TBR', 'year': 2021}
+2025-05-28 14:23:03,798 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TEX', 'year': 2021}
+2025-05-28 14:23:05,509 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TOR', 'year': 2021}
+2025-05-28 14:23:07,778 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'WSN', 'year': 2021}
+2025-05-28 14:23:07,778 - prediction_model - INFO - Collecting data for 2022
+2025-05-28 14:23:09,406 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ARI', 'year': 2022}
+2025-05-28 14:23:10,759 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ATL', 'year': 2022}
+2025-05-28 14:23:14,095 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BAL', 'year': 2022}
+2025-05-28 14:23:15,643 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BOS', 'year': 2022}
+2025-05-28 14:23:17,069 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHC', 'year': 2022}
+2025-05-28 14:23:18,473 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHW', 'year': 2022}
+2025-05-28 14:23:20,038 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CIN', 'year': 2022}
+2025-05-28 14:23:21,634 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CLE', 'year': 2022}
+2025-05-28 14:23:23,119 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'COL', 'year': 2022}
+2025-05-28 14:23:24,719 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'DET', 'year': 2022}
+2025-05-28 14:23:26,158 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'HOU', 'year': 2022}
+2025-05-28 14:23:28,075 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'KCR', 'year': 2022}
+2025-05-28 14:23:29,806 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAA', 'year': 2022}
+2025-05-28 14:23:31,729 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAD', 'year': 2022}
+2025-05-28 14:23:33,511 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIA', 'year': 2022}
+2025-05-28 14:23:35,096 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIL', 'year': 2022}
+2025-05-28 14:23:37,254 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIN', 'year': 2022}
+2025-05-28 14:23:39,719 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYM', 'year': 2022}
+2025-05-28 14:23:41,773 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYY', 'year': 2022}
+2025-05-28 14:23:43,286 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'OAK', 'year': 2022}
+2025-05-28 14:23:44,726 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PHI', 'year': 2022}
+2025-05-28 14:23:46,153 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PIT', 'year': 2022}
+2025-05-28 14:23:47,491 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SDP', 'year': 2022}
+2025-05-28 14:23:49,271 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SEA', 'year': 2022}
+2025-05-28 14:23:50,659 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SFG', 'year': 2022}
+2025-05-28 14:23:52,984 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'STL', 'year': 2022}
+2025-05-28 14:23:54,824 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TBR', 'year': 2022}
+2025-05-28 14:23:56,329 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TEX', 'year': 2022}
+2025-05-28 14:23:57,805 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TOR', 'year': 2022}
+2025-05-28 14:23:59,174 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'WSN', 'year': 2022}
+2025-05-28 14:23:59,174 - prediction_model - INFO - Collecting data for 2023
+2025-05-28 14:24:00,607 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ARI', 'year': 2023}
+2025-05-28 14:24:02,453 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ATL', 'year': 2023}
+2025-05-28 14:24:03,852 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BAL', 'year': 2023}
+2025-05-28 14:24:05,386 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BOS', 'year': 2023}
+2025-05-28 14:24:06,959 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHC', 'year': 2023}
+2025-05-28 14:24:08,594 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHW', 'year': 2023}
+2025-05-28 14:24:10,031 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CIN', 'year': 2023}
+2025-05-28 14:24:11,467 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CLE', 'year': 2023}
+2025-05-28 14:24:13,026 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'COL', 'year': 2023}
+2025-05-28 14:24:14,538 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'DET', 'year': 2023}
+2025-05-28 14:24:16,019 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'HOU', 'year': 2023}
+2025-05-28 14:24:17,602 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'KCR', 'year': 2023}
+2025-05-28 14:24:19,104 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAA', 'year': 2023}
+2025-05-28 14:24:21,698 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAD', 'year': 2023}
+2025-05-28 14:24:23,332 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIA', 'year': 2023}
+2025-05-28 14:24:24,778 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIL', 'year': 2023}
+2025-05-28 14:24:26,148 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIN', 'year': 2023}
+2025-05-28 14:24:27,847 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYM', 'year': 2023}
+2025-05-28 14:24:29,483 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYY', 'year': 2023}
+2025-05-28 14:24:31,074 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'OAK', 'year': 2023}
+2025-05-28 14:24:32,971 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PHI', 'year': 2023}
+2025-05-28 14:24:34,441 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PIT', 'year': 2023}
+2025-05-28 14:24:36,452 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SDP', 'year': 2023}
+2025-05-28 14:24:38,083 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SEA', 'year': 2023}
+2025-05-28 14:24:40,503 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SFG', 'year': 2023}
+2025-05-28 14:24:42,093 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'STL', 'year': 2023}
+2025-05-28 14:24:43,616 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TBR', 'year': 2023}
+2025-05-28 14:24:45,128 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TEX', 'year': 2023}
+2025-05-28 14:24:46,491 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TOR', 'year': 2023}
+2025-05-28 14:24:48,086 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'WSN', 'year': 2023}
+2025-05-28 14:24:48,086 - prediction_model - INFO - Collecting data for 2024
+2025-05-28 14:24:49,608 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ARI', 'year': 2024}
+2025-05-28 14:24:51,219 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ATL', 'year': 2024}
+2025-05-28 14:24:52,970 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BAL', 'year': 2024}
+2025-05-28 14:24:54,927 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BOS', 'year': 2024}
+2025-05-28 14:24:56,440 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHC', 'year': 2024}
+2025-05-28 14:24:58,083 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHW', 'year': 2024}
+2025-05-28 14:24:59,795 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CIN', 'year': 2024}
+2025-05-28 14:25:01,395 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CLE', 'year': 2024}
+2025-05-28 14:25:02,833 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'COL', 'year': 2024}
+2025-05-28 14:25:04,450 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'DET', 'year': 2024}
+2025-05-28 14:25:06,447 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'HOU', 'year': 2024}
+2025-05-28 14:25:08,041 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'KCR', 'year': 2024}
+2025-05-28 14:25:11,395 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAA', 'year': 2024}
+2025-05-28 14:25:12,736 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAD', 'year': 2024}
+2025-05-28 14:25:14,343 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIA', 'year': 2024}
+2025-05-28 14:25:16,037 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIL', 'year': 2024}
+2025-05-28 14:25:17,642 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIN', 'year': 2024}
+2025-05-28 14:25:19,195 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYM', 'year': 2024}
+2025-05-28 14:25:20,893 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYY', 'year': 2024}
+2025-05-28 14:25:22,391 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'OAK', 'year': 2024}
+2025-05-28 14:25:24,034 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PHI', 'year': 2024}
+2025-05-28 14:25:25,567 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PIT', 'year': 2024}
+2025-05-28 14:25:27,284 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SDP', 'year': 2024}
+2025-05-28 14:25:28,874 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SEA', 'year': 2024}
+2025-05-28 14:25:32,967 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SFG', 'year': 2024}
+2025-05-28 14:25:34,615 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'STL', 'year': 2024}
+2025-05-28 14:25:36,258 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TBR', 'year': 2024}
+2025-05-28 14:25:37,887 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TEX', 'year': 2024}
+2025-05-28 14:25:39,566 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TOR', 'year': 2024}
+2025-05-28 14:25:41,869 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'WSN', 'year': 2024}
+2025-05-28 14:25:41,870 - prediction_model - ERROR - Error: No objects to concatenate
+2025-05-28 14:27:05,417 - prediction_model - INFO - Starting model training process
+2025-05-28 14:27:05,418 - prediction_model - INFO - Collecting data for 2018
+2025-05-28 14:27:07,177 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ARI', 'year': 2018}
+2025-05-28 14:27:10,041 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ATL', 'year': 2018}
+2025-05-28 14:27:11,505 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BAL', 'year': 2018}
+2025-05-28 14:27:13,247 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BOS', 'year': 2018}
+2025-05-28 14:27:14,753 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHC', 'year': 2018}
+2025-05-28 14:27:16,604 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHW', 'year': 2018}
+2025-05-28 14:27:17,973 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CIN', 'year': 2018}
+2025-05-28 14:27:19,515 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CLE', 'year': 2018}
+2025-05-28 14:27:21,245 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'COL', 'year': 2018}
+2025-05-28 14:27:22,989 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'DET', 'year': 2018}
+2025-05-28 14:27:24,371 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'HOU', 'year': 2018}
+2025-05-28 14:27:25,639 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'KCR', 'year': 2018}
+2025-05-28 14:27:27,007 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAA', 'year': 2018}
+2025-05-28 14:27:28,519 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAD', 'year': 2018}
+2025-05-28 14:27:29,865 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIA', 'year': 2018}
+2025-05-28 14:27:31,332 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIL', 'year': 2018}
+2025-05-28 14:27:33,325 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIN', 'year': 2018}
+2025-05-28 14:27:34,827 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYM', 'year': 2018}
+2025-05-28 14:27:36,180 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYY', 'year': 2018}
+2025-05-28 14:27:37,896 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'OAK', 'year': 2018}
+2025-05-28 14:27:39,393 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PHI', 'year': 2018}
+2025-05-28 14:27:41,098 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PIT', 'year': 2018}
+2025-05-28 14:27:42,696 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SDP', 'year': 2018}
+2025-05-28 14:27:46,156 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SEA', 'year': 2018}
+2025-05-28 14:27:47,483 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SFG', 'year': 2018}
+2025-05-28 14:27:49,169 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'STL', 'year': 2018}
+2025-05-28 14:27:50,552 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TBR', 'year': 2018}
+2025-05-28 14:27:52,230 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TEX', 'year': 2018}
+2025-05-28 14:27:53,852 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TOR', 'year': 2018}
+2025-05-28 14:27:55,308 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'WSN', 'year': 2018}
+2025-05-28 14:27:55,308 - prediction_model - INFO - Collecting data for 2019
+2025-05-28 14:27:57,078 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ARI', 'year': 2019}
+2025-05-28 14:27:58,587 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ATL', 'year': 2019}
+2025-05-28 14:28:00,099 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BAL', 'year': 2019}
+2025-05-28 14:28:01,606 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BOS', 'year': 2019}
+2025-05-28 14:28:04,067 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHC', 'year': 2019}
+2025-05-28 14:28:05,599 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHW', 'year': 2019}
+2025-05-28 14:28:07,138 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CIN', 'year': 2019}
+2025-05-28 14:28:08,782 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CLE', 'year': 2019}
+2025-05-28 14:28:10,270 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'COL', 'year': 2019}
+2025-05-28 14:28:12,105 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'DET', 'year': 2019}
+2025-05-28 14:28:13,535 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'HOU', 'year': 2019}
+2025-05-28 14:28:15,882 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'KCR', 'year': 2019}
+2025-05-28 14:28:17,538 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAA', 'year': 2019}
+2025-05-28 14:28:19,193 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAD', 'year': 2019}
+2025-05-28 14:28:20,555 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIA', 'year': 2019}
+2025-05-28 14:28:22,130 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIL', 'year': 2019}
+2025-05-28 14:28:23,840 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIN', 'year': 2019}
+2025-05-28 14:28:26,878 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYM', 'year': 2019}
+2025-05-28 14:28:28,895 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYY', 'year': 2019}
+2025-05-28 14:28:30,541 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'OAK', 'year': 2019}
+2025-05-28 14:28:32,177 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PHI', 'year': 2019}
+2025-05-28 14:28:33,609 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PIT', 'year': 2019}
+2025-05-28 14:28:34,982 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SDP', 'year': 2019}
+2025-05-28 14:28:36,660 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SEA', 'year': 2019}
+2025-05-28 14:28:38,300 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SFG', 'year': 2019}
+2025-05-28 14:28:39,829 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'STL', 'year': 2019}
+2025-05-28 14:28:41,373 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TBR', 'year': 2019}
+2025-05-28 14:28:42,829 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TEX', 'year': 2019}
+2025-05-28 14:28:47,059 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TOR', 'year': 2019}
+2025-05-28 14:28:48,975 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'WSN', 'year': 2019}
+2025-05-28 14:28:48,975 - prediction_model - INFO - Collecting data for 2020
+2025-05-28 14:28:50,493 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ARI', 'year': 2020}
+2025-05-28 14:28:52,249 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ATL', 'year': 2020}
+2025-05-28 14:28:53,889 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BAL', 'year': 2020}
+2025-05-28 14:28:55,302 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BOS', 'year': 2020}
+2025-05-28 14:28:56,686 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHC', 'year': 2020}
+2025-05-28 14:28:59,053 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHW', 'year': 2020}
+2025-05-28 14:29:00,642 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CIN', 'year': 2020}
+2025-05-28 14:29:02,274 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CLE', 'year': 2020}
+2025-05-28 14:29:03,804 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'COL', 'year': 2020}
+2025-05-28 14:29:05,336 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'DET', 'year': 2020}
+2025-05-28 14:29:06,905 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'HOU', 'year': 2020}
+2025-05-28 14:29:08,430 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'KCR', 'year': 2020}
+2025-05-28 14:29:10,225 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAA', 'year': 2020}
+2025-05-28 14:29:11,738 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAD', 'year': 2020}
+2025-05-28 14:29:13,133 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIA', 'year': 2020}
+2025-05-28 14:29:14,569 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIL', 'year': 2020}
+2025-05-28 14:29:16,159 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIN', 'year': 2020}
+2025-05-28 14:29:18,048 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYM', 'year': 2020}
+2025-05-28 14:29:19,679 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYY', 'year': 2020}
+2025-05-28 14:29:21,282 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'OAK', 'year': 2020}
+2025-05-28 14:29:22,964 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PHI', 'year': 2020}
+2025-05-28 14:29:24,601 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PIT', 'year': 2020}
+2025-05-28 14:29:26,077 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SDP', 'year': 2020}
+2025-05-28 14:29:28,191 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SEA', 'year': 2020}
+2025-05-28 14:29:29,818 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SFG', 'year': 2020}
+2025-05-28 14:29:31,773 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'STL', 'year': 2020}
+2025-05-28 14:29:33,578 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TBR', 'year': 2020}
+2025-05-28 14:29:35,640 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TEX', 'year': 2020}
+2025-05-28 14:29:37,290 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TOR', 'year': 2020}
+2025-05-28 14:29:38,639 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'WSN', 'year': 2020}
+2025-05-28 14:29:38,640 - prediction_model - INFO - Collecting data for 2021
+2025-05-28 14:29:40,108 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ARI', 'year': 2021}
+2025-05-28 14:29:41,646 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ATL', 'year': 2021}
+2025-05-28 14:29:43,149 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BAL', 'year': 2021}
+2025-05-28 14:29:45,633 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BOS', 'year': 2021}
+2025-05-28 14:29:47,143 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHC', 'year': 2021}
+2025-05-28 14:29:48,743 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHW', 'year': 2021}
+2025-05-28 14:29:50,358 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CIN', 'year': 2021}
+2025-05-28 14:29:51,609 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CLE', 'year': 2021}
+2025-05-28 14:29:53,070 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'COL', 'year': 2021}
+2025-05-28 14:29:54,437 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'DET', 'year': 2021}
+2025-05-28 14:29:56,543 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'HOU', 'year': 2021}
+2025-05-28 14:29:58,096 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'KCR', 'year': 2021}
+2025-05-28 14:30:00,021 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAA', 'year': 2021}
+2025-05-28 14:30:01,493 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAD', 'year': 2021}
+2025-05-28 14:30:02,976 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIA', 'year': 2021}
+2025-05-28 14:30:04,437 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIL', 'year': 2021}
+2025-05-28 14:30:06,039 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIN', 'year': 2021}
+2025-05-28 14:30:07,466 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYM', 'year': 2021}
+2025-05-28 14:30:08,902 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYY', 'year': 2021}
+2025-05-28 14:30:10,346 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'OAK', 'year': 2021}
+2025-05-28 14:30:11,888 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PHI', 'year': 2021}
+2025-05-28 14:30:13,456 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PIT', 'year': 2021}
+2025-05-28 14:30:14,987 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SDP', 'year': 2021}
+2025-05-28 14:30:16,465 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SEA', 'year': 2021}
+2025-05-28 14:30:18,264 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SFG', 'year': 2021}
+2025-05-28 14:30:19,788 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'STL', 'year': 2021}
+2025-05-28 14:30:21,164 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TBR', 'year': 2021}
+2025-05-28 14:30:22,765 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TEX', 'year': 2021}
+2025-05-28 14:30:24,606 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TOR', 'year': 2021}
+2025-05-28 14:30:25,983 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'WSN', 'year': 2021}
+2025-05-28 14:30:25,984 - prediction_model - INFO - Collecting data for 2022
+2025-05-28 14:30:27,570 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ARI', 'year': 2022}
+2025-05-28 14:30:29,102 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ATL', 'year': 2022}
+2025-05-28 14:30:32,390 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BAL', 'year': 2022}
+2025-05-28 14:30:33,857 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BOS', 'year': 2022}
+2025-05-28 14:30:35,384 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHC', 'year': 2022}
+2025-05-28 14:30:36,871 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHW', 'year': 2022}
+2025-05-28 14:30:38,489 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CIN', 'year': 2022}
+2025-05-28 14:30:40,155 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CLE', 'year': 2022}
+2025-05-28 14:30:41,768 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'COL', 'year': 2022}
+2025-05-28 14:30:43,493 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'DET', 'year': 2022}
+2025-05-28 14:30:45,086 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'HOU', 'year': 2022}
+2025-05-28 14:30:46,858 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'KCR', 'year': 2022}
+2025-05-28 14:30:48,393 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAA', 'year': 2022}
+2025-05-28 14:30:49,996 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAD', 'year': 2022}
+2025-05-28 14:30:51,479 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIA', 'year': 2022}
+2025-05-28 14:30:54,011 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIL', 'year': 2022}
+2025-05-28 14:30:55,540 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIN', 'year': 2022}
+2025-05-28 14:30:56,907 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYM', 'year': 2022}
+2025-05-28 14:30:58,575 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYY', 'year': 2022}
+2025-05-28 14:31:02,692 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'OAK', 'year': 2022}
+2025-05-28 14:31:05,790 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PHI', 'year': 2022}
+2025-05-28 14:31:07,372 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PIT', 'year': 2022}
+2025-05-28 14:31:08,862 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SDP', 'year': 2022}
+2025-05-28 14:31:10,585 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SEA', 'year': 2022}
+2025-05-28 14:31:12,316 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SFG', 'year': 2022}
+2025-05-28 14:31:13,658 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'STL', 'year': 2022}
+2025-05-28 14:31:15,610 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TBR', 'year': 2022}
+2025-05-28 14:31:18,347 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TEX', 'year': 2022}
+2025-05-28 14:31:19,866 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TOR', 'year': 2022}
+2025-05-28 14:31:21,437 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'WSN', 'year': 2022}
+2025-05-28 14:31:21,438 - prediction_model - INFO - Collecting data for 2023
+2025-05-28 14:31:23,363 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ARI', 'year': 2023}
+2025-05-28 14:31:24,684 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ATL', 'year': 2023}
+2025-05-28 14:31:26,066 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BAL', 'year': 2023}
+2025-05-28 14:31:27,508 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BOS', 'year': 2023}
+2025-05-28 14:31:28,913 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHC', 'year': 2023}
+2025-05-28 14:31:32,938 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHW', 'year': 2023}
+2025-05-28 14:31:34,443 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CIN', 'year': 2023}
+2025-05-28 14:31:35,856 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CLE', 'year': 2023}
+2025-05-28 14:31:37,402 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'COL', 'year': 2023}
+2025-05-28 14:31:38,856 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'DET', 'year': 2023}
+2025-05-28 14:31:40,347 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'HOU', 'year': 2023}
+2025-05-28 14:31:41,881 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'KCR', 'year': 2023}
+2025-05-28 14:31:43,442 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAA', 'year': 2023}
+2025-05-28 14:31:45,077 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAD', 'year': 2023}
+2025-05-28 14:31:46,544 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIA', 'year': 2023}
+2025-05-28 14:31:47,856 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIL', 'year': 2023}
+2025-05-28 14:31:49,200 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIN', 'year': 2023}
+2025-05-28 14:31:50,505 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYM', 'year': 2023}
+2025-05-28 14:31:52,064 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYY', 'year': 2023}
+2025-05-28 14:31:54,097 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'OAK', 'year': 2023}
+2025-05-28 14:31:55,667 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PHI', 'year': 2023}
+2025-05-28 14:31:57,605 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PIT', 'year': 2023}
+2025-05-28 14:31:59,441 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SDP', 'year': 2023}
+2025-05-28 14:32:00,785 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SEA', 'year': 2023}
+2025-05-28 14:32:03,298 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SFG', 'year': 2023}
+2025-05-28 14:32:05,102 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'STL', 'year': 2023}
+2025-05-28 14:32:06,575 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TBR', 'year': 2023}
+2025-05-28 14:32:08,214 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TEX', 'year': 2023}
+2025-05-28 14:32:09,720 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TOR', 'year': 2023}
+2025-05-28 14:32:11,175 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'WSN', 'year': 2023}
+2025-05-28 14:32:11,175 - prediction_model - INFO - Collecting data for 2024
+2025-05-28 14:32:12,680 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ARI', 'year': 2024}
+2025-05-28 14:32:14,142 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'ATL', 'year': 2024}
+2025-05-28 14:32:15,669 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BAL', 'year': 2024}
+2025-05-28 14:32:19,084 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'BOS', 'year': 2024}
+2025-05-28 14:32:20,721 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHC', 'year': 2024}
+2025-05-28 14:32:22,347 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CHW', 'year': 2024}
+2025-05-28 14:32:24,292 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CIN', 'year': 2024}
+2025-05-28 14:32:26,240 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'CLE', 'year': 2024}
+2025-05-28 14:32:28,093 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'COL', 'year': 2024}
+2025-05-28 14:32:29,540 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'DET', 'year': 2024}
+2025-05-28 14:32:31,251 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'HOU', 'year': 2024}
+2025-05-28 14:32:32,857 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'KCR', 'year': 2024}
+2025-05-28 14:32:34,424 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAA', 'year': 2024}
+2025-05-28 14:32:36,069 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'LAD', 'year': 2024}
+2025-05-28 14:32:37,920 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIA', 'year': 2024}
+2025-05-28 14:32:39,973 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIL', 'year': 2024}
+2025-05-28 14:32:41,383 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'MIN', 'year': 2024}
+2025-05-28 14:32:42,880 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYM', 'year': 2024}
+2025-05-28 14:32:44,878 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'NYY', 'year': 2024}
+2025-05-28 14:32:46,325 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'OAK', 'year': 2024}
+2025-05-28 14:32:47,737 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PHI', 'year': 2024}
+2025-05-28 14:32:50,011 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'PIT', 'year': 2024}
+2025-05-28 14:32:51,492 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SDP', 'year': 2024}
+2025-05-28 14:32:53,034 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SEA', 'year': 2024}
+2025-05-28 14:32:54,507 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'SFG', 'year': 2024}
+2025-05-28 14:32:55,995 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'STL', 'year': 2024}
+2025-05-28 14:32:57,464 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TBR', 'year': 2024}
+2025-05-28 14:32:58,916 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TEX', 'year': 2024}
+2025-05-28 14:33:00,451 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'TOR', 'year': 2024}
+2025-05-28 14:33:02,079 - prediction_model - ERROR - Error: 'int' object has no attribute 'upper'
+Context: {'team': 'WSN', 'year': 2024}
+2025-05-28 14:33:02,079 - prediction_model - ERROR - Error: No objects to concatenate
+2025-05-28 14:33:41,246 - prediction_model - INFO - Starting model training process
+2025-05-28 14:33:41,246 - prediction_model - ERROR - Error: name 'logger' is not defined
